@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1692278025 source:d:\embededd system\abdelbasit materials\sudoku_game\implementation_fn.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1692278367 source:d:\embededd system\abdelbasit materials\sudoku_game\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1692201743 source:d:\embededd system\abdelbasit materials\sudoku_game\data.c
+
+1692201743 source:d:\embededd system\abdelbasit materials\projects\sudoku_game\data.c
+
+1692278367 source:d:\embededd system\abdelbasit materials\projects\sudoku_game\main.c
+	<stdio.h>
+	<stdlib.h>
+
